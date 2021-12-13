@@ -51,6 +51,10 @@ body {
   border-radius: 5px;
   cursor: pointer;
 }
+
+.button .hover {
+  background-color: blue;
+}
 .drag-area img {
   height: 100%;
   width: 100%;
